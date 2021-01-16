@@ -10,3 +10,8 @@ Day-2
 -----
 1. Logical Programs
 2. Program Writing Technique
+
+Day-3
+-----
+1. Introduction to OOPS (Object Oriented Programming System)
+
